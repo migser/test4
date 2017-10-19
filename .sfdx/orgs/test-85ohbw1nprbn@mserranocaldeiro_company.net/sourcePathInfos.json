@@ -1,0 +1,257 @@
+[
+    [
+        "/Users/mserranocaldeiro/Documents/SFDX/test4/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mserranocaldeiro/Documents/SFDX/test4/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1508415082000,
+            "changeTime": 1508415082000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/mserranocaldeiro/Documents/SFDX/test4/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mserranocaldeiro/Documents/SFDX/test4/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1508415082000,
+            "changeTime": 1508415082000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mserranocaldeiro/Documents/SFDX/test4/force-app/main/default",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mserranocaldeiro/Documents/SFDX/test4/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 204,
+            "modifiedTime": 1508415313000,
+            "changeTime": 1508415313000,
+            "contentHash": "4cfd1989fa44dd1a317ae36b127a22da3b8eae1b"
+        }
+    ],
+    [
+        "/Users/mserranocaldeiro/Documents/SFDX/test4/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mserranocaldeiro/Documents/SFDX/test4/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 68,
+            "modifiedTime": 1508415082000,
+            "changeTime": 1508415082000,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mserranocaldeiro/Documents/SFDX/test4",
+        {
+            "state": "n",
+            "sourcePath": "/Users/mserranocaldeiro/Documents/SFDX/test4",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 238,
+            "modifiedTime": 1508415198000,
+            "changeTime": 1508415198000,
+            "contentHash": "3dae32c665681fc89661729c131899b7036b97f4",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/mserranocaldeiro/Documents/SFDX/test4/force-app/main/default/objects/Account/fields/xxx__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mserranocaldeiro/Documents/SFDX/test4/force-app/main/default/objects/Account/fields/xxx__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 318,
+            "modifiedTime": 1508415312000,
+            "changeTime": 1508415312000,
+            "contentHash": "4e108af90b164b5999db6868e65b0ed1985299b8"
+        }
+    ],
+    [
+        "/Users/mserranocaldeiro/Documents/SFDX/test4/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mserranocaldeiro/Documents/SFDX/test4/force-app/main/default/layouts/Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9751,
+            "modifiedTime": 1508415312000,
+            "changeTime": 1508415312000,
+            "contentHash": "6da712383cc2134c47f7a09952e6460f1a264b1a"
+        }
+    ],
+    [
+        "/Users/mserranocaldeiro/Documents/SFDX/test4/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mserranocaldeiro/Documents/SFDX/test4/force-app/main/default/layouts/Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9703,
+            "modifiedTime": 1508415313000,
+            "changeTime": 1508415313000,
+            "contentHash": "8ef3171ee8302e3e064aa08f1e1d69d99e28646c"
+        }
+    ],
+    [
+        "/Users/mserranocaldeiro/Documents/SFDX/test4/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mserranocaldeiro/Documents/SFDX/test4/force-app/main/default/layouts/Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9751,
+            "modifiedTime": 1508415313000,
+            "changeTime": 1508415313000,
+            "contentHash": "1dd54f60d9a9413ead9c3955a78e6314b142c21c"
+        }
+    ],
+    [
+        "/Users/mserranocaldeiro/Documents/SFDX/test4/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mserranocaldeiro/Documents/SFDX/test4/force-app/main/default/layouts/Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 9703,
+            "modifiedTime": 1508415313000,
+            "changeTime": 1508415313000,
+            "contentHash": "d01d3d5c76c36659f7def46a40b7b79a72dbb463"
+        }
+    ],
+    [
+        "/Users/mserranocaldeiro/Documents/SFDX/test4/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mserranocaldeiro/Documents/SFDX/test4/force-app/main/default/profiles/Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4364,
+            "modifiedTime": 1508415313000,
+            "changeTime": 1508415313000,
+            "contentHash": "fac5f17396181fda9fe0da0632fb79beff359d02"
+        }
+    ],
+    [
+        "/Users/mserranocaldeiro/Documents/SFDX/test4/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mserranocaldeiro/Documents/SFDX/test4/force-app/main/default/profiles/Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4368,
+            "modifiedTime": 1508415313000,
+            "changeTime": 1508415313000,
+            "contentHash": "4775281c4376c93c2d29e7f53db5e6003e09aac1"
+        }
+    ],
+    [
+        "/Users/mserranocaldeiro/Documents/SFDX/test4/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mserranocaldeiro/Documents/SFDX/test4/force-app/main/default/profiles/Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4704,
+            "modifiedTime": 1508415313000,
+            "changeTime": 1508415313000,
+            "contentHash": "58b0c0abeed04cb36617400b63194a109e667171"
+        }
+    ],
+    [
+        "/Users/mserranocaldeiro/Documents/SFDX/test4/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mserranocaldeiro/Documents/SFDX/test4/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 17164,
+            "modifiedTime": 1508415313000,
+            "changeTime": 1508415313000,
+            "contentHash": "67bfb166105a6a11035fa23d8adeb02ae98d1bde"
+        }
+    ],
+    [
+        "/Users/mserranocaldeiro/Documents/SFDX/test4/force-app/main/default/objects/Account/fields",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mserranocaldeiro/Documents/SFDX/test4/force-app/main/default/objects/Account/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1508415312000,
+            "changeTime": 1508415312000,
+            "contentHash": "1dcc3d5111471835f8bf542ece4410507f567077"
+        }
+    ],
+    [
+        "/Users/mserranocaldeiro/Documents/SFDX/test4/force-app/main/default/objects/Account",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mserranocaldeiro/Documents/SFDX/test4/force-app/main/default/objects/Account",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1508415312000,
+            "changeTime": 1508415312000,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "/Users/mserranocaldeiro/Documents/SFDX/test4/force-app/main/default/objects",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mserranocaldeiro/Documents/SFDX/test4/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1508415312000,
+            "changeTime": 1508415312000,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5"
+        }
+    ],
+    [
+        "/Users/mserranocaldeiro/Documents/SFDX/test4/force-app/main/default/layouts",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mserranocaldeiro/Documents/SFDX/test4/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 204,
+            "modifiedTime": 1508415313000,
+            "changeTime": 1508415313000,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0"
+        }
+    ],
+    [
+        "/Users/mserranocaldeiro/Documents/SFDX/test4/force-app/main/default/profiles",
+        {
+            "state": "u",
+            "sourcePath": "/Users/mserranocaldeiro/Documents/SFDX/test4/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 204,
+            "modifiedTime": 1508415313000,
+            "changeTime": 1508415313000,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
